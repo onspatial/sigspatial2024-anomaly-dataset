@@ -1,0 +1,3069 @@
+Entry: stylesheet/NodeColoringBasedOnInterest.css
+Copying Resource Name.../stylesheet/NodeColoringBasedOnInterest.css
+Entry: stylesheet/social.css
+Copying Resource Name.../stylesheet/social.css
+file:/home/hosseinamiri/Research/outlier-dev/life/maps/atl/map/walkways.shp
+file:/home/hosseinamiri/Research/outlier-dev/life/maps/atl/map/buildings.shp
+file:/home/hosseinamiri/Research/outlier-dev/life/maps/atl/map/buildingUnits.shp
+[INFO] pol.WorldModel initPlaces - Number of neighborhoods: 1
+[INFO] pol.WorldModel initPlaces - Neighborhood #0
+[INFO] pol.WorldModel initPlaces - -------Buildings----------
+[INFO] pol.WorldModel initPlaces - Total number of buildings: 7374
+[INFO] pol.WorldModel initPlaces - # of School Buildings needed: 1
+[INFO] pol.WorldModel initPlaces - # of Residential Buildings needed: 4916
+[INFO] pol.WorldModel initPlaces - # of Commercial Buildings needed: 2457
+[INFO] pol.WorldModel initPlaces - --------Units---------
+[INFO] pol.WorldModel initPlaces - # of Apartments Needed: 1500
+[INFO] pol.WorldModel initPlaces - # of Schools Needed: 1
+[INFO] pol.WorldModel initPlaces - # of Pubs Needed: 10
+[INFO] pol.WorldModel initPlaces - # of Workplace Needed: 250
+[INFO] pol.WorldModel initPlaces - # of Restaurant Needed: 20
+[INFO] pol.WorldModel addHumanAgents - Total number of agents: 1000
+Number of agents in neighborhood #0: 1000
+input: index: 0 lenghtOfAgentInterestEnum: 11
+output: index: 0
+input: index: 1 lenghtOfAgentInterestEnum: 11
+output: index: 1
+input: index: 2 lenghtOfAgentInterestEnum: 11
+output: index: 2
+input: index: 3 lenghtOfAgentInterestEnum: 11
+output: index: 3
+input: index: 4 lenghtOfAgentInterestEnum: 11
+output: index: 4
+input: index: 5 lenghtOfAgentInterestEnum: 11
+output: index: 5
+input: index: 6 lenghtOfAgentInterestEnum: 11
+output: index: 6
+input: index: 7 lenghtOfAgentInterestEnum: 11
+output: index: 7
+input: index: 8 lenghtOfAgentInterestEnum: 11
+output: index: 8
+input: index: 9 lenghtOfAgentInterestEnum: 11
+output: index: 9
+input: index: 10 lenghtOfAgentInterestEnum: 11
+output: index: 10
+input: index: 87 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #0 added.
+input: index: 24 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #1 added.
+input: index: 44 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #2 added.
+input: index: 76 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #3 added.
+input: index: 58 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #4 added.
+input: index: 26 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #5 added.
+input: index: 48 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #6 added.
+input: index: 98 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #7 added.
+input: index: 76 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #8 added.
+input: index: 84 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #9 added.
+input: index: 43 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #10 added.
+input: index: 68 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #11 added.
+input: index: 60 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #12 added.
+input: index: 28 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #13 added.
+input: index: 15 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #14 added.
+input: index: 78 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #15 added.
+input: index: 35 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #16 added.
+input: index: 41 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #17 added.
+input: index: 23 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #18 added.
+input: index: 59 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #19 added.
+input: index: 75 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #20 added.
+input: index: 40 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #21 added.
+input: index: 96 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #22 added.
+input: index: 75 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #23 added.
+input: index: 61 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #24 added.
+input: index: 66 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #25 added.
+input: index: 22 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #26 added.
+input: index: 65 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #27 added.
+input: index: 55 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #28 added.
+input: index: 98 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #29 added.
+input: index: 55 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #30 added.
+input: index: 58 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #31 added.
+input: index: 1 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #32 added.
+input: index: 48 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #33 added.
+input: index: 75 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #34 added.
+input: index: 75 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #35 added.
+input: index: 14 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #36 added.
+input: index: 67 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #37 added.
+input: index: 66 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #38 added.
+input: index: 16 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #39 added.
+input: index: 70 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #40 added.
+input: index: 31 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #41 added.
+input: index: 59 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #42 added.
+input: index: 2 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #43 added.
+input: index: 95 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #44 added.
+input: index: 74 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #45 added.
+input: index: 43 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #46 added.
+input: index: 32 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #47 added.
+input: index: 84 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #48 added.
+input: index: 13 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #49 added.
+input: index: 96 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #50 added.
+input: index: 18 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #51 added.
+input: index: 91 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #52 added.
+input: index: 34 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #53 added.
+input: index: 88 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #54 added.
+input: index: 72 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #55 added.
+input: index: 70 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #56 added.
+input: index: 20 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #57 added.
+input: index: 9 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #58 added.
+input: index: 26 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #59 added.
+input: index: 23 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #60 added.
+input: index: 48 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #61 added.
+input: index: 7 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #62 added.
+input: index: 23 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #63 added.
+input: index: 43 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #64 added.
+input: index: 5 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #65 added.
+input: index: 67 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #66 added.
+input: index: 39 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #67 added.
+input: index: 44 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #68 added.
+input: index: 28 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #69 added.
+input: index: 87 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #70 added.
+input: index: 7 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #71 added.
+input: index: 48 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #72 added.
+input: index: 79 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #73 added.
+input: index: 69 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #74 added.
+input: index: 35 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #75 added.
+input: index: 62 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #76 added.
+input: index: 6 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #77 added.
+input: index: 96 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #78 added.
+input: index: 99 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #79 added.
+input: index: 21 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #80 added.
+input: index: 14 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #81 added.
+input: index: 57 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #82 added.
+input: index: 31 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #83 added.
+input: index: 37 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #84 added.
+input: index: 75 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #85 added.
+input: index: 29 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #86 added.
+input: index: 50 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #87 added.
+input: index: 67 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #88 added.
+input: index: 63 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #89 added.
+input: index: 39 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #90 added.
+input: index: 14 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #91 added.
+input: index: 67 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #92 added.
+input: index: 74 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #93 added.
+input: index: 3 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #94 added.
+input: index: 80 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #95 added.
+input: index: 32 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #96 added.
+input: index: 33 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #97 added.
+input: index: 97 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #98 added.
+input: index: 56 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #99 added.
+input: index: 75 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #100 added.
+input: index: 6 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #101 added.
+input: index: 19 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #102 added.
+input: index: 34 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #103 added.
+input: index: 18 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #104 added.
+input: index: 68 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #105 added.
+input: index: 41 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #106 added.
+input: index: 71 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #107 added.
+input: index: 83 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #108 added.
+input: index: 78 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #109 added.
+input: index: 66 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #110 added.
+input: index: 87 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #111 added.
+input: index: 21 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #112 added.
+input: index: 40 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #113 added.
+input: index: 100 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #114 added.
+input: index: 5 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #115 added.
+input: index: 88 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #116 added.
+input: index: 20 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #117 added.
+input: index: 60 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #118 added.
+input: index: 44 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #119 added.
+input: index: 57 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #120 added.
+input: index: 25 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #121 added.
+input: index: 84 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #122 added.
+input: index: 89 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #123 added.
+input: index: 49 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #124 added.
+input: index: 56 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #125 added.
+input: index: 7 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #126 added.
+input: index: 27 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #127 added.
+input: index: 93 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #128 added.
+input: index: 64 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #129 added.
+input: index: 60 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #130 added.
+input: index: 22 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #131 added.
+input: index: 5 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #132 added.
+input: index: 18 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #133 added.
+input: index: 24 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #134 added.
+input: index: 32 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #135 added.
+input: index: 90 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #136 added.
+input: index: 24 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #137 added.
+input: index: 75 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #138 added.
+input: index: 8 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #139 added.
+input: index: 61 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #140 added.
+input: index: 28 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #141 added.
+input: index: 85 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #142 added.
+input: index: 59 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #143 added.
+input: index: 96 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #144 added.
+input: index: 88 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #145 added.
+input: index: 15 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #146 added.
+input: index: 29 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #147 added.
+input: index: 44 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #148 added.
+input: index: 9 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #149 added.
+input: index: 57 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #150 added.
+input: index: 29 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #151 added.
+input: index: 44 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #152 added.
+input: index: 6 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #153 added.
+input: index: 81 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #154 added.
+input: index: 49 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #155 added.
+input: index: 59 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #156 added.
+input: index: 1 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #157 added.
+input: index: 90 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #158 added.
+input: index: 42 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #159 added.
+input: index: 9 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #160 added.
+input: index: 17 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #161 added.
+input: index: 91 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #162 added.
+input: index: 74 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #163 added.
+input: index: 79 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #164 added.
+input: index: 25 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #165 added.
+input: index: 32 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #166 added.
+input: index: 83 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #167 added.
+input: index: 36 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #168 added.
+input: index: 53 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #169 added.
+input: index: 99 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #170 added.
+input: index: 3 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #171 added.
+input: index: 76 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #172 added.
+input: index: 11 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #173 added.
+input: index: 6 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #174 added.
+input: index: 47 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #175 added.
+input: index: 2 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #176 added.
+input: index: 65 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #177 added.
+input: index: 81 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #178 added.
+input: index: 35 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #179 added.
+input: index: 43 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #180 added.
+input: index: 20 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #181 added.
+input: index: 49 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #182 added.
+input: index: 45 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #183 added.
+input: index: 5 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #184 added.
+input: index: 13 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #185 added.
+input: index: 10 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #186 added.
+input: index: 1 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #187 added.
+input: index: 42 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #188 added.
+input: index: 65 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #189 added.
+input: index: 86 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #190 added.
+input: index: 78 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #191 added.
+input: index: 30 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #192 added.
+input: index: 49 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #193 added.
+input: index: 53 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #194 added.
+input: index: 77 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #195 added.
+input: index: 53 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #196 added.
+input: index: 46 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #197 added.
+input: index: 28 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #198 added.
+input: index: 10 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #199 added.
+input: index: 81 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #200 added.
+input: index: 96 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #201 added.
+input: index: 56 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #202 added.
+input: index: 87 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #203 added.
+input: index: 45 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #204 added.
+input: index: 80 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #205 added.
+input: index: 4 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #206 added.
+input: index: 67 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #207 added.
+input: index: 2 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #208 added.
+input: index: 27 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #209 added.
+input: index: 26 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #210 added.
+input: index: 22 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #211 added.
+input: index: 28 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #212 added.
+input: index: 58 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #213 added.
+input: index: 79 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #214 added.
+input: index: 91 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #215 added.
+input: index: 99 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #216 added.
+input: index: 34 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #217 added.
+input: index: 55 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #218 added.
+input: index: 65 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #219 added.
+input: index: 79 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #220 added.
+input: index: 50 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #221 added.
+input: index: 79 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #222 added.
+input: index: 15 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #223 added.
+input: index: 39 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #224 added.
+input: index: 61 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #225 added.
+input: index: 98 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #226 added.
+input: index: 63 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #227 added.
+input: index: 20 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #228 added.
+input: index: 18 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #229 added.
+input: index: 52 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #230 added.
+input: index: 60 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #231 added.
+input: index: 94 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #232 added.
+input: index: 8 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #233 added.
+input: index: 13 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #234 added.
+input: index: 36 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #235 added.
+input: index: 11 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #236 added.
+input: index: 92 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #237 added.
+input: index: 85 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #238 added.
+input: index: 53 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #239 added.
+input: index: 77 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #240 added.
+input: index: 18 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #241 added.
+input: index: 62 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #242 added.
+input: index: 15 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #243 added.
+input: index: 65 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #244 added.
+input: index: 13 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #245 added.
+input: index: 13 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #246 added.
+input: index: 49 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #247 added.
+input: index: 29 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #248 added.
+input: index: 38 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #249 added.
+input: index: 50 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #250 added.
+input: index: 18 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #251 added.
+input: index: 23 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #252 added.
+input: index: 75 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #253 added.
+input: index: 69 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #254 added.
+input: index: 64 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #255 added.
+input: index: 34 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #256 added.
+input: index: 44 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #257 added.
+input: index: 5 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #258 added.
+input: index: 66 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #259 added.
+input: index: 53 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #260 added.
+input: index: 81 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #261 added.
+input: index: 84 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #262 added.
+input: index: 87 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #263 added.
+input: index: 85 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #264 added.
+input: index: 69 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #265 added.
+input: index: 55 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #266 added.
+input: index: 89 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #267 added.
+input: index: 8 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #268 added.
+input: index: 16 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #269 added.
+input: index: 11 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #270 added.
+input: index: 55 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #271 added.
+input: index: 56 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #272 added.
+input: index: 9 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #273 added.
+input: index: 97 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #274 added.
+input: index: 89 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #275 added.
+input: index: 78 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #276 added.
+input: index: 55 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #277 added.
+input: index: 7 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #278 added.
+input: index: 76 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #279 added.
+input: index: 54 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #280 added.
+input: index: 83 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #281 added.
+input: index: 17 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #282 added.
+input: index: 96 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #283 added.
+input: index: 36 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #284 added.
+input: index: 71 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #285 added.
+input: index: 68 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #286 added.
+input: index: 16 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #287 added.
+input: index: 27 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #288 added.
+input: index: 59 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #289 added.
+input: index: 22 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #290 added.
+input: index: 26 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #291 added.
+input: index: 36 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #292 added.
+input: index: 60 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #293 added.
+input: index: 22 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #294 added.
+input: index: 14 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #295 added.
+input: index: 73 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #296 added.
+input: index: 65 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #297 added.
+input: index: 8 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #298 added.
+input: index: 81 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #299 added.
+input: index: 32 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #300 added.
+input: index: 83 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #301 added.
+input: index: 30 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #302 added.
+input: index: 89 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #303 added.
+input: index: 56 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #304 added.
+input: index: 20 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #305 added.
+input: index: 91 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #306 added.
+input: index: 90 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #307 added.
+input: index: 1 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #308 added.
+input: index: 3 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #309 added.
+input: index: 88 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #310 added.
+input: index: 95 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #311 added.
+input: index: 77 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #312 added.
+input: index: 10 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #313 added.
+input: index: 66 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #314 added.
+input: index: 49 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #315 added.
+input: index: 70 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #316 added.
+input: index: 57 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #317 added.
+input: index: 81 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #318 added.
+input: index: 24 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #319 added.
+input: index: 47 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #320 added.
+input: index: 96 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #321 added.
+input: index: 39 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #322 added.
+input: index: 87 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #323 added.
+input: index: 57 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #324 added.
+input: index: 70 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #325 added.
+input: index: 54 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #326 added.
+input: index: 84 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #327 added.
+input: index: 44 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #328 added.
+input: index: 89 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #329 added.
+input: index: 70 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #330 added.
+input: index: 19 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #331 added.
+input: index: 21 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #332 added.
+input: index: 94 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #333 added.
+input: index: 36 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #334 added.
+input: index: 38 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #335 added.
+input: index: 77 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #336 added.
+input: index: 84 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #337 added.
+input: index: 24 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #338 added.
+input: index: 14 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #339 added.
+input: index: 2 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #340 added.
+input: index: 71 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #341 added.
+input: index: 56 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #342 added.
+input: index: 26 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #343 added.
+input: index: 93 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #344 added.
+input: index: 56 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #345 added.
+input: index: 32 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #346 added.
+input: index: 67 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #347 added.
+input: index: 7 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #348 added.
+input: index: 42 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #349 added.
+input: index: 46 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #350 added.
+input: index: 28 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #351 added.
+input: index: 42 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #352 added.
+input: index: 50 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #353 added.
+input: index: 7 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #354 added.
+input: index: 39 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #355 added.
+input: index: 7 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #356 added.
+input: index: 24 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #357 added.
+input: index: 94 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #358 added.
+input: index: 87 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #359 added.
+input: index: 30 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #360 added.
+input: index: 6 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #361 added.
+input: index: 43 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #362 added.
+input: index: 97 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #363 added.
+input: index: 59 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #364 added.
+input: index: 94 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #365 added.
+input: index: 66 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #366 added.
+input: index: 32 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #367 added.
+input: index: 47 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #368 added.
+input: index: 63 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #369 added.
+input: index: 56 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #370 added.
+input: index: 17 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #371 added.
+input: index: 88 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #372 added.
+input: index: 30 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #373 added.
+input: index: 16 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #374 added.
+input: index: 66 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #375 added.
+input: index: 18 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #376 added.
+input: index: 17 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #377 added.
+input: index: 71 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #378 added.
+input: index: 62 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #379 added.
+input: index: 26 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #380 added.
+input: index: 79 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #381 added.
+input: index: 95 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #382 added.
+input: index: 3 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #383 added.
+input: index: 67 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #384 added.
+input: index: 24 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #385 added.
+input: index: 44 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #386 added.
+input: index: 65 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #387 added.
+input: index: 86 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #388 added.
+input: index: 48 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #389 added.
+input: index: 7 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #390 added.
+input: index: 20 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #391 added.
+input: index: 62 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #392 added.
+input: index: 93 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #393 added.
+input: index: 62 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #394 added.
+input: index: 97 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #395 added.
+input: index: 57 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #396 added.
+input: index: 12 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #397 added.
+input: index: 44 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #398 added.
+input: index: 68 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #399 added.
+input: index: 3 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #400 added.
+input: index: 56 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #401 added.
+input: index: 63 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #402 added.
+input: index: 43 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #403 added.
+input: index: 89 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #404 added.
+input: index: 29 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #405 added.
+input: index: 58 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #406 added.
+input: index: 2 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #407 added.
+input: index: 17 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #408 added.
+input: index: 54 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #409 added.
+input: index: 60 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #410 added.
+input: index: 30 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #411 added.
+input: index: 74 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #412 added.
+input: index: 99 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #413 added.
+input: index: 59 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #414 added.
+input: index: 31 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #415 added.
+input: index: 33 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #416 added.
+input: index: 40 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #417 added.
+input: index: 81 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #418 added.
+input: index: 66 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #419 added.
+input: index: 21 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #420 added.
+input: index: 4 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #421 added.
+input: index: 4 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #422 added.
+input: index: 22 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #423 added.
+input: index: 48 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #424 added.
+input: index: 29 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #425 added.
+input: index: 52 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #426 added.
+input: index: 89 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #427 added.
+input: index: 2 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #428 added.
+input: index: 6 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #429 added.
+input: index: 60 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #430 added.
+input: index: 22 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #431 added.
+input: index: 46 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #432 added.
+input: index: 72 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #433 added.
+input: index: 75 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #434 added.
+input: index: 23 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #435 added.
+input: index: 84 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #436 added.
+input: index: 13 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #437 added.
+input: index: 100 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #438 added.
+input: index: 65 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #439 added.
+input: index: 90 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #440 added.
+input: index: 20 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #441 added.
+input: index: 49 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #442 added.
+input: index: 83 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #443 added.
+input: index: 77 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #444 added.
+input: index: 54 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #445 added.
+input: index: 44 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #446 added.
+input: index: 42 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #447 added.
+input: index: 98 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #448 added.
+input: index: 9 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #449 added.
+input: index: 76 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #450 added.
+input: index: 76 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #451 added.
+input: index: 94 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #452 added.
+input: index: 18 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #453 added.
+input: index: 36 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #454 added.
+input: index: 72 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #455 added.
+input: index: 70 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #456 added.
+input: index: 78 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #457 added.
+input: index: 40 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #458 added.
+input: index: 43 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #459 added.
+input: index: 68 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #460 added.
+input: index: 37 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #461 added.
+input: index: 18 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #462 added.
+input: index: 30 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #463 added.
+input: index: 95 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #464 added.
+input: index: 21 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #465 added.
+input: index: 12 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #466 added.
+input: index: 62 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #467 added.
+input: index: 67 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #468 added.
+input: index: 30 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #469 added.
+input: index: 59 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #470 added.
+input: index: 88 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #471 added.
+input: index: 48 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #472 added.
+input: index: 77 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #473 added.
+input: index: 22 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #474 added.
+input: index: 25 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #475 added.
+input: index: 34 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #476 added.
+input: index: 26 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #477 added.
+input: index: 43 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #478 added.
+input: index: 27 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #479 added.
+input: index: 49 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #480 added.
+input: index: 15 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #481 added.
+input: index: 30 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #482 added.
+input: index: 3 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #483 added.
+input: index: 82 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #484 added.
+input: index: 25 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #485 added.
+input: index: 87 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #486 added.
+input: index: 9 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #487 added.
+input: index: 14 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #488 added.
+input: index: 73 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #489 added.
+input: index: 84 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #490 added.
+input: index: 48 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #491 added.
+input: index: 36 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #492 added.
+input: index: 59 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #493 added.
+input: index: 92 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #494 added.
+input: index: 64 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #495 added.
+input: index: 75 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #496 added.
+input: index: 70 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #497 added.
+input: index: 84 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #498 added.
+input: index: 12 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #499 added.
+input: index: 25 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #500 added.
+input: index: 86 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #501 added.
+input: index: 65 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #502 added.
+input: index: 79 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #503 added.
+input: index: 33 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #504 added.
+input: index: 32 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #505 added.
+input: index: 32 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #506 added.
+input: index: 45 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #507 added.
+input: index: 72 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #508 added.
+input: index: 64 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #509 added.
+input: index: 80 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #510 added.
+input: index: 79 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #511 added.
+input: index: 88 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #512 added.
+input: index: 29 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #513 added.
+input: index: 74 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #514 added.
+input: index: 48 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #515 added.
+input: index: 82 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #516 added.
+input: index: 76 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #517 added.
+input: index: 1 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #518 added.
+input: index: 48 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #519 added.
+input: index: 18 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #520 added.
+input: index: 11 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #521 added.
+input: index: 86 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #522 added.
+input: index: 49 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #523 added.
+input: index: 9 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #524 added.
+input: index: 72 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #525 added.
+input: index: 87 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #526 added.
+input: index: 23 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #527 added.
+input: index: 56 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #528 added.
+input: index: 56 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #529 added.
+input: index: 68 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #530 added.
+input: index: 67 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #531 added.
+input: index: 24 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #532 added.
+input: index: 75 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #533 added.
+input: index: 13 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #534 added.
+input: index: 6 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #535 added.
+input: index: 64 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #536 added.
+input: index: 31 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #537 added.
+input: index: 7 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #538 added.
+input: index: 19 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #539 added.
+input: index: 75 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #540 added.
+input: index: 70 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #541 added.
+input: index: 25 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #542 added.
+input: index: 76 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #543 added.
+input: index: 75 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #544 added.
+input: index: 36 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #545 added.
+input: index: 57 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #546 added.
+input: index: 14 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #547 added.
+input: index: 98 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #548 added.
+input: index: 18 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #549 added.
+input: index: 21 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #550 added.
+input: index: 25 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #551 added.
+input: index: 97 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #552 added.
+input: index: 77 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #553 added.
+input: index: 71 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #554 added.
+input: index: 81 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #555 added.
+input: index: 97 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #556 added.
+input: index: 88 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #557 added.
+input: index: 47 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #558 added.
+input: index: 40 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #559 added.
+input: index: 70 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #560 added.
+input: index: 68 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #561 added.
+input: index: 78 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #562 added.
+input: index: 20 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #563 added.
+input: index: 90 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #564 added.
+input: index: 96 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #565 added.
+input: index: 79 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #566 added.
+input: index: 45 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #567 added.
+input: index: 48 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #568 added.
+input: index: 43 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #569 added.
+input: index: 53 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #570 added.
+input: index: 44 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #571 added.
+input: index: 30 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #572 added.
+input: index: 32 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #573 added.
+input: index: 33 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #574 added.
+input: index: 20 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #575 added.
+input: index: 43 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #576 added.
+input: index: 84 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #577 added.
+input: index: 7 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #578 added.
+input: index: 21 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #579 added.
+input: index: 17 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #580 added.
+input: index: 90 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #581 added.
+input: index: 48 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #582 added.
+input: index: 77 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #583 added.
+input: index: 79 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #584 added.
+input: index: 69 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #585 added.
+input: index: 28 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #586 added.
+input: index: 60 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #587 added.
+input: index: 10 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #588 added.
+input: index: 62 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #589 added.
+input: index: 1 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #590 added.
+input: index: 86 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #591 added.
+input: index: 55 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #592 added.
+input: index: 52 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #593 added.
+input: index: 71 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #594 added.
+input: index: 37 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #595 added.
+input: index: 18 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #596 added.
+input: index: 7 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #597 added.
+input: index: 89 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #598 added.
+input: index: 4 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #599 added.
+input: index: 74 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #600 added.
+input: index: 75 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #601 added.
+input: index: 90 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #602 added.
+input: index: 15 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #603 added.
+input: index: 30 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #604 added.
+input: index: 88 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #605 added.
+input: index: 44 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #606 added.
+input: index: 51 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #607 added.
+input: index: 24 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #608 added.
+input: index: 92 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #609 added.
+input: index: 55 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #610 added.
+input: index: 45 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #611 added.
+input: index: 83 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #612 added.
+input: index: 2 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #613 added.
+input: index: 61 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #614 added.
+input: index: 29 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #615 added.
+input: index: 73 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #616 added.
+input: index: 72 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #617 added.
+input: index: 5 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #618 added.
+input: index: 100 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #619 added.
+input: index: 66 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #620 added.
+input: index: 79 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #621 added.
+input: index: 11 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #622 added.
+input: index: 4 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #623 added.
+input: index: 61 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #624 added.
+input: index: 79 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #625 added.
+input: index: 46 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #626 added.
+input: index: 43 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #627 added.
+input: index: 45 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #628 added.
+input: index: 69 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #629 added.
+input: index: 39 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #630 added.
+input: index: 41 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #631 added.
+input: index: 77 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #632 added.
+input: index: 41 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #633 added.
+input: index: 90 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #634 added.
+input: index: 87 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #635 added.
+input: index: 48 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #636 added.
+input: index: 11 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #637 added.
+input: index: 32 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #638 added.
+input: index: 16 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #639 added.
+input: index: 8 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #640 added.
+input: index: 64 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #641 added.
+input: index: 89 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #642 added.
+input: index: 18 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #643 added.
+input: index: 82 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #644 added.
+input: index: 41 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #645 added.
+input: index: 2 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #646 added.
+input: index: 10 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #647 added.
+input: index: 76 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #648 added.
+input: index: 92 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #649 added.
+input: index: 97 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #650 added.
+input: index: 46 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #651 added.
+input: index: 11 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #652 added.
+input: index: 87 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #653 added.
+input: index: 82 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #654 added.
+input: index: 5 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #655 added.
+input: index: 41 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #656 added.
+input: index: 69 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #657 added.
+input: index: 93 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #658 added.
+input: index: 2 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #659 added.
+input: index: 8 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #660 added.
+input: index: 93 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #661 added.
+input: index: 78 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #662 added.
+input: index: 31 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #663 added.
+input: index: 44 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #664 added.
+input: index: 71 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #665 added.
+input: index: 46 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #666 added.
+input: index: 14 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #667 added.
+input: index: 69 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #668 added.
+input: index: 14 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #669 added.
+input: index: 80 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #670 added.
+input: index: 52 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #671 added.
+input: index: 21 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #672 added.
+input: index: 31 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #673 added.
+input: index: 12 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #674 added.
+input: index: 49 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #675 added.
+input: index: 14 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #676 added.
+input: index: 73 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #677 added.
+input: index: 98 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #678 added.
+input: index: 61 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #679 added.
+input: index: 66 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #680 added.
+input: index: 45 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #681 added.
+input: index: 34 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #682 added.
+input: index: 56 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #683 added.
+input: index: 32 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #684 added.
+input: index: 47 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #685 added.
+input: index: 30 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #686 added.
+input: index: 40 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #687 added.
+input: index: 96 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #688 added.
+input: index: 19 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #689 added.
+input: index: 30 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #690 added.
+input: index: 81 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #691 added.
+input: index: 3 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #692 added.
+input: index: 56 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #693 added.
+input: index: 32 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #694 added.
+input: index: 21 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #695 added.
+input: index: 86 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #696 added.
+input: index: 1 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #697 added.
+input: index: 81 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #698 added.
+input: index: 30 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #699 added.
+input: index: 78 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #700 added.
+input: index: 1 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #701 added.
+input: index: 36 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #702 added.
+input: index: 77 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #703 added.
+input: index: 96 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #704 added.
+input: index: 4 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #705 added.
+input: index: 18 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #706 added.
+input: index: 75 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #707 added.
+input: index: 11 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #708 added.
+input: index: 28 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #709 added.
+input: index: 48 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #710 added.
+input: index: 16 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #711 added.
+input: index: 24 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #712 added.
+input: index: 34 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #713 added.
+input: index: 9 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #714 added.
+input: index: 4 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #715 added.
+input: index: 98 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #716 added.
+input: index: 7 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #717 added.
+input: index: 58 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #718 added.
+input: index: 72 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #719 added.
+input: index: 57 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #720 added.
+input: index: 77 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #721 added.
+input: index: 44 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #722 added.
+input: index: 48 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #723 added.
+input: index: 48 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #724 added.
+input: index: 52 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #725 added.
+input: index: 79 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #726 added.
+input: index: 14 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #727 added.
+input: index: 37 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #728 added.
+input: index: 50 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #729 added.
+input: index: 25 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #730 added.
+input: index: 5 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #731 added.
+input: index: 19 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #732 added.
+input: index: 72 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #733 added.
+input: index: 40 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #734 added.
+input: index: 44 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #735 added.
+input: index: 17 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #736 added.
+input: index: 23 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #737 added.
+input: index: 54 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #738 added.
+input: index: 17 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #739 added.
+input: index: 100 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #740 added.
+input: index: 14 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #741 added.
+input: index: 24 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #742 added.
+input: index: 21 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #743 added.
+input: index: 100 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #744 added.
+input: index: 38 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #745 added.
+input: index: 46 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #746 added.
+input: index: 31 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #747 added.
+input: index: 95 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #748 added.
+input: index: 22 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #749 added.
+input: index: 92 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #750 added.
+input: index: 70 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #751 added.
+input: index: 44 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #752 added.
+input: index: 56 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #753 added.
+input: index: 24 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #754 added.
+input: index: 65 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #755 added.
+input: index: 52 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #756 added.
+input: index: 24 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #757 added.
+input: index: 86 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #758 added.
+input: index: 54 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #759 added.
+input: index: 85 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #760 added.
+input: index: 70 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #761 added.
+input: index: 63 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #762 added.
+input: index: 52 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #763 added.
+input: index: 3 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #764 added.
+input: index: 84 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #765 added.
+input: index: 67 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #766 added.
+input: index: 70 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #767 added.
+input: index: 44 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #768 added.
+input: index: 1 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #769 added.
+input: index: 8 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #770 added.
+input: index: 88 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #771 added.
+input: index: 92 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #772 added.
+input: index: 64 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #773 added.
+input: index: 27 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #774 added.
+input: index: 91 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #775 added.
+input: index: 91 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #776 added.
+input: index: 76 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #777 added.
+input: index: 51 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #778 added.
+input: index: 78 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #779 added.
+input: index: 44 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #780 added.
+input: index: 54 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #781 added.
+input: index: 40 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #782 added.
+input: index: 32 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #783 added.
+input: index: 5 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #784 added.
+input: index: 79 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #785 added.
+input: index: 31 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #786 added.
+input: index: 48 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #787 added.
+input: index: 30 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #788 added.
+input: index: 66 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #789 added.
+input: index: 25 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #790 added.
+input: index: 48 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #791 added.
+input: index: 41 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #792 added.
+input: index: 70 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #793 added.
+input: index: 62 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #794 added.
+input: index: 10 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #795 added.
+input: index: 66 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #796 added.
+input: index: 88 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #797 added.
+input: index: 59 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #798 added.
+input: index: 63 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #799 added.
+input: index: 88 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #800 added.
+input: index: 22 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #801 added.
+input: index: 53 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #802 added.
+input: index: 22 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #803 added.
+input: index: 42 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #804 added.
+input: index: 12 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #805 added.
+input: index: 85 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #806 added.
+input: index: 23 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #807 added.
+input: index: 44 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #808 added.
+input: index: 90 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #809 added.
+input: index: 41 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #810 added.
+input: index: 72 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #811 added.
+input: index: 51 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #812 added.
+input: index: 59 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #813 added.
+input: index: 13 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #814 added.
+input: index: 66 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #815 added.
+input: index: 84 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #816 added.
+input: index: 89 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #817 added.
+input: index: 63 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #818 added.
+input: index: 42 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #819 added.
+input: index: 68 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #820 added.
+input: index: 20 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #821 added.
+input: index: 51 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #822 added.
+input: index: 67 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #823 added.
+input: index: 23 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #824 added.
+input: index: 56 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #825 added.
+input: index: 94 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #826 added.
+input: index: 94 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #827 added.
+input: index: 24 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #828 added.
+input: index: 87 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #829 added.
+input: index: 90 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #830 added.
+input: index: 77 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #831 added.
+input: index: 56 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #832 added.
+input: index: 34 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #833 added.
+input: index: 94 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #834 added.
+input: index: 85 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #835 added.
+input: index: 32 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #836 added.
+input: index: 1 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #837 added.
+input: index: 36 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #838 added.
+input: index: 79 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #839 added.
+input: index: 46 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #840 added.
+input: index: 40 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #841 added.
+input: index: 47 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #842 added.
+input: index: 90 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #843 added.
+input: index: 65 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #844 added.
+input: index: 65 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #845 added.
+input: index: 55 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #846 added.
+input: index: 13 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #847 added.
+input: index: 87 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #848 added.
+input: index: 95 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #849 added.
+input: index: 42 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #850 added.
+input: index: 34 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #851 added.
+input: index: 20 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #852 added.
+input: index: 22 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #853 added.
+input: index: 44 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #854 added.
+input: index: 89 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #855 added.
+input: index: 58 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #856 added.
+input: index: 1 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #857 added.
+input: index: 60 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #858 added.
+input: index: 8 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #859 added.
+input: index: 16 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #860 added.
+input: index: 45 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #861 added.
+input: index: 18 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #862 added.
+input: index: 8 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #863 added.
+input: index: 68 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #864 added.
+input: index: 33 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #865 added.
+input: index: 33 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #866 added.
+input: index: 48 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #867 added.
+input: index: 64 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #868 added.
+input: index: 43 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #869 added.
+input: index: 83 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #870 added.
+input: index: 100 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #871 added.
+input: index: 100 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #872 added.
+input: index: 49 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #873 added.
+input: index: 29 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #874 added.
+input: index: 59 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #875 added.
+input: index: 59 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #876 added.
+input: index: 41 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #877 added.
+input: index: 90 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #878 added.
+input: index: 9 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #879 added.
+input: index: 6 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #880 added.
+input: index: 18 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #881 added.
+input: index: 65 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #882 added.
+input: index: 59 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #883 added.
+input: index: 42 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #884 added.
+input: index: 89 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #885 added.
+input: index: 40 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #886 added.
+input: index: 89 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #887 added.
+input: index: 67 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #888 added.
+input: index: 40 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #889 added.
+input: index: 29 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #890 added.
+input: index: 6 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #891 added.
+input: index: 51 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #892 added.
+input: index: 26 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #893 added.
+input: index: 13 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #894 added.
+input: index: 40 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #895 added.
+input: index: 44 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #896 added.
+input: index: 84 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #897 added.
+input: index: 35 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #898 added.
+input: index: 44 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #899 added.
+input: index: 16 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #900 added.
+input: index: 61 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #901 added.
+input: index: 60 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #902 added.
+input: index: 87 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #903 added.
+input: index: 46 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #904 added.
+input: index: 14 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #905 added.
+input: index: 51 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #906 added.
+input: index: 79 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #907 added.
+input: index: 90 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #908 added.
+input: index: 61 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #909 added.
+input: index: 99 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #910 added.
+input: index: 78 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #911 added.
+input: index: 8 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #912 added.
+input: index: 36 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #913 added.
+input: index: 44 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #914 added.
+input: index: 65 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #915 added.
+input: index: 49 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #916 added.
+input: index: 76 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #917 added.
+input: index: 76 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #918 added.
+input: index: 48 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #919 added.
+input: index: 19 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #920 added.
+input: index: 9 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #921 added.
+input: index: 25 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #922 added.
+input: index: 56 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #923 added.
+input: index: 9 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #924 added.
+input: index: 64 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #925 added.
+input: index: 71 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #926 added.
+input: index: 59 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #927 added.
+input: index: 54 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #928 added.
+input: index: 36 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #929 added.
+input: index: 55 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #930 added.
+input: index: 71 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #931 added.
+input: index: 55 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #932 added.
+input: index: 62 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #933 added.
+input: index: 98 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #934 added.
+input: index: 75 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #935 added.
+input: index: 68 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #936 added.
+input: index: 61 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #937 added.
+input: index: 44 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #938 added.
+input: index: 31 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #939 added.
+input: index: 82 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #940 added.
+input: index: 98 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #941 added.
+input: index: 87 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #942 added.
+input: index: 97 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #943 added.
+input: index: 64 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #944 added.
+input: index: 99 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #945 added.
+input: index: 99 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #946 added.
+input: index: 64 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #947 added.
+input: index: 32 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #948 added.
+input: index: 33 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #949 added.
+input: index: 67 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #950 added.
+input: index: 45 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #951 added.
+input: index: 37 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #952 added.
+input: index: 36 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #953 added.
+input: index: 93 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #954 added.
+input: index: 47 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #955 added.
+input: index: 40 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #956 added.
+input: index: 84 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #957 added.
+input: index: 95 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #958 added.
+input: index: 93 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #959 added.
+input: index: 37 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #960 added.
+input: index: 77 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #961 added.
+input: index: 38 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #962 added.
+input: index: 28 lenghtOfAgentInterestEnum: 11
+output: index: 6
+[INFO] pol.WorldModel addAgent - Agent #963 added.
+input: index: 42 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #964 added.
+input: index: 51 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #965 added.
+input: index: 97 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #966 added.
+input: index: 41 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #967 added.
+input: index: 93 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #968 added.
+input: index: 80 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #969 added.
+input: index: 86 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #970 added.
+input: index: 62 lenghtOfAgentInterestEnum: 11
+output: index: 7
+[INFO] pol.WorldModel addAgent - Agent #971 added.
+input: index: 97 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #972 added.
+input: index: 78 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #973 added.
+input: index: 76 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #974 added.
+input: index: 31 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #975 added.
+input: index: 86 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #976 added.
+input: index: 32 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #977 added.
+input: index: 56 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #978 added.
+input: index: 10 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #979 added.
+input: index: 13 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #980 added.
+input: index: 81 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #981 added.
+input: index: 85 lenghtOfAgentInterestEnum: 11
+output: index: 8
+[INFO] pol.WorldModel addAgent - Agent #982 added.
+input: index: 35 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #983 added.
+input: index: 68 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #984 added.
+input: index: 25 lenghtOfAgentInterestEnum: 11
+output: index: 3
+[INFO] pol.WorldModel addAgent - Agent #985 added.
+input: index: 27 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #986 added.
+input: index: 54 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #987 added.
+input: index: 13 lenghtOfAgentInterestEnum: 11
+output: index: 2
+[INFO] pol.WorldModel addAgent - Agent #988 added.
+input: index: 100 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #989 added.
+input: index: 37 lenghtOfAgentInterestEnum: 11
+output: index: 4
+[INFO] pol.WorldModel addAgent - Agent #990 added.
+input: index: 42 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #991 added.
+input: index: 89 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #992 added.
+input: index: 55 lenghtOfAgentInterestEnum: 11
+output: index: 0
+[INFO] pol.WorldModel addAgent - Agent #993 added.
+input: index: 43 lenghtOfAgentInterestEnum: 11
+output: index: 10
+[INFO] pol.WorldModel addAgent - Agent #994 added.
+input: index: 71 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #995 added.
+input: index: 67 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #996 added.
+input: index: 9 lenghtOfAgentInterestEnum: 11
+output: index: 9
+[INFO] pol.WorldModel addAgent - Agent #997 added.
+input: index: 67 lenghtOfAgentInterestEnum: 11
+output: index: 1
+[INFO] pol.WorldModel addAgent - Agent #998 added.
+input: index: 38 lenghtOfAgentInterestEnum: 11
+output: index: 5
+[INFO] pol.WorldModel addAgent - Agent #999 added.
+[INFO] pol.WorldModel addHumanAgents - Human agents are added.
+[INFO] pol.utils.DateTimeUtil logTimeSpent - Agent population create/initialize time: 2.41 s
+[INFO] pol.WorldModel nightlyRoutine - Night routine:Day #1 Mon @ 00:00
+[INFO] pol.WorldModel eveningRoutine - Evening routine:Day #1 Mon @ 19:00
+[INFO] pol.WorldModel nightlyRoutine - Night routine:Day #2 Tue @ 00:00
+[INFO] pol.WorldModel eveningRoutine - Evening routine:Day #2 Tue @ 19:00
+[INFO] pol.WorldModel nightlyRoutine - Night routine:Day #3 Wed @ 00:00
+[INFO] pol.WorldModel eveningRoutine - Evening routine:Day #3 Wed @ 19:00
+[INFO] pol.WorldModel nightlyRoutine - Night routine:Day #4 Thu @ 00:00
+[INFO] pol.WorldModel eveningRoutine - Evening routine:Day #4 Thu @ 19:00
+[INFO] pol.WorldModel nightlyRoutine - Night routine:Day #5 Fri @ 00:00
+[INFO] pol.WorldModel eveningRoutine - Evening routine:Day #5 Fri @ 19:00
+[INFO] pol.WorldModel nightlyRoutine - Night routine:Day #6 Sat @ 00:00
+[INFO] pol.WorldModel eveningRoutine - Evening routine:Day #6 Sat @ 19:00
+[INFO] pol.WorldModel nightlyRoutine - Night routine:Day #7 Sun @ 00:00
+[INFO] pol.WorldModel eveningRoutine - Evening routine:Day #7 Sun @ 19:00
+[INFO] pol.WorldModel nightlyRoutine - Night routine:Day #8 Mon @ 00:00
+[INFO] pol.WorldModel eveningRoutine - Evening routine:Day #8 Mon @ 19:00
+[INFO] pol.WorldModel nightlyRoutine - Night routine:Day #9 Tue @ 00:00
+[INFO] pol.WorldModel eveningRoutine - Evening routine:Day #9 Tue @ 19:00
+[INFO] pol.WorldModel nightlyRoutine - Night routine:Day #10 Wed @ 00:00
+[INFO] pol.WorldModel eveningRoutine - Evening routine:Day #10 Wed @ 19:00
+[INFO] pol.WorldModel nightlyRoutine - Night routine:Day #11 Thu @ 00:00
+[INFO] pol.WorldModel finish - Social network graph saved.
+[INFO] pol.utils.DateTimeUtil logTimeSpent - Total simulation time: 19.35 s

@@ -1,0 +1,22 @@
+Entry: stylesheet/NodeColoringBasedOnInterest.css
+Copying Resource Name.../stylesheet/NodeColoringBasedOnInterest.css
+Entry: stylesheet/social.css
+Copying Resource Name.../stylesheet/social.css
+file:/home/hosseinamiri/Research/outlier-dev/life/maps/atl/map/walkways.shp
+file:/home/hosseinamiri/Research/outlier-dev/life/maps/atl/map/buildings.shp
+file:/home/hosseinamiri/Research/outlier-dev/life/maps/atl/map/buildingUnits.shp
+[INFO] pol.WorldModel initPlaces - Number of neighborhoods: 1
+[INFO] pol.WorldModel initPlaces - Neighborhood #0
+[INFO] pol.WorldModel initPlaces - -------Buildings----------
+[INFO] pol.WorldModel initPlaces - Total number of buildings: 7374
+[INFO] pol.WorldModel initPlaces - # of School Buildings needed: 6
+[INFO] pol.WorldModel initPlaces - # of Residential Buildings needed: 4912
+[INFO] pol.WorldModel initPlaces - # of Commercial Buildings needed: 2456
+[INFO] pol.WorldModel initPlaces - --------Units---------
+[INFO] pol.WorldModel initPlaces - # of Apartments Needed: 18000
+[INFO] pol.WorldModel initPlaces - # of Schools Needed: 6
+[INFO] pol.WorldModel initPlaces - # of Pubs Needed: 120
+[INFO] pol.WorldModel initPlaces - # of Workplace Needed: 3000
+[INFO] pol.WorldModel initPlaces - # of Restaurant Needed: 240
+[INFO] pol.WorldModel addHumanAgents - Total number of agents: 12000
+Number of agents in neighborhood #0: 12000

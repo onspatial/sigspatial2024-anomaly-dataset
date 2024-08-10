@@ -1,0 +1,211 @@
+Entry: stylesheet/NodeColoringBasedOnInterest.css
+Copying Resource Name.../stylesheet/NodeColoringBasedOnInterest.css
+Entry: stylesheet/social.css
+Copying Resource Name.../stylesheet/social.css
+file:/home/hosseinamiri/Research/outlier-dev/life/maps/atl/map/walkways.shp
+file:/home/hosseinamiri/Research/outlier-dev/life/maps/atl/map/buildings.shp
+file:/home/hosseinamiri/Research/outlier-dev/life/maps/atl/map/buildingUnits.shp
+[INFO] pol.WorldModel initPlaces - Number of neighborhoods: 1
+[INFO] pol.WorldModel initPlaces - Neighborhood #0
+[INFO] pol.WorldModel initPlaces - -------Buildings----------
+[INFO] pol.WorldModel initPlaces - Total number of buildings: 7374
+[INFO] pol.WorldModel initPlaces - # of School Buildings needed: 1
+[INFO] pol.WorldModel initPlaces - # of Residential Buildings needed: 4916
+[INFO] pol.WorldModel initPlaces - # of Commercial Buildings needed: 2457
+[INFO] pol.WorldModel initPlaces - --------Units---------
+[INFO] pol.WorldModel initPlaces - # of Apartments Needed: 1500
+[INFO] pol.WorldModel initPlaces - # of Schools Needed: 1
+[INFO] pol.WorldModel initPlaces - # of Pubs Needed: 10
+[INFO] pol.WorldModel initPlaces - # of Workplace Needed: 250
+[INFO] pol.WorldModel initPlaces - # of Restaurant Needed: 20
+[INFO] pol.WorldModel addHumanAgents - Total number of agents: 1000
+Number of agents in neighborhood #0: 1000
+[INFO] pol.WorldModel addAgent - Agent #0 added.
+[INFO] pol.WorldModel addAgent - Agent #1 added.
+[INFO] pol.WorldModel addAgent - Agent #2 added.
+[INFO] pol.WorldModel addAgent - Agent #3 added.
+[INFO] pol.WorldModel addAgent - Agent #4 added.
+[INFO] pol.WorldModel addAgent - Agent #5 added.
+[INFO] pol.WorldModel addAgent - Agent #6 added.
+[INFO] pol.WorldModel addAgent - Agent #7 added.
+[INFO] pol.WorldModel addAgent - Agent #8 added.
+[INFO] pol.WorldModel addAgent - Agent #9 added.
+[INFO] pol.WorldModel addAgent - Agent #10 added.
+[INFO] pol.WorldModel addAgent - Agent #11 added.
+[INFO] pol.WorldModel addAgent - Agent #12 added.
+[INFO] pol.WorldModel addAgent - Agent #13 added.
+[INFO] pol.WorldModel addAgent - Agent #14 added.
+[INFO] pol.WorldModel addAgent - Agent #15 added.
+[INFO] pol.WorldModel addAgent - Agent #16 added.
+[INFO] pol.WorldModel addAgent - Agent #17 added.
+[INFO] pol.WorldModel addAgent - Agent #18 added.
+[INFO] pol.WorldModel addAgent - Agent #19 added.
+[INFO] pol.WorldModel addAgent - Agent #20 added.
+[INFO] pol.WorldModel addAgent - Agent #21 added.
+[INFO] pol.WorldModel addAgent - Agent #22 added.
+[INFO] pol.WorldModel addAgent - Agent #23 added.
+[INFO] pol.WorldModel addAgent - Agent #24 added.
+[INFO] pol.WorldModel addAgent - Agent #25 added.
+[INFO] pol.WorldModel addAgent - Agent #26 added.
+[INFO] pol.WorldModel addAgent - Agent #27 added.
+[INFO] pol.WorldModel addAgent - Agent #28 added.
+[INFO] pol.WorldModel addAgent - Agent #29 added.
+[INFO] pol.WorldModel addAgent - Agent #30 added.
+[INFO] pol.WorldModel addAgent - Agent #31 added.
+[INFO] pol.WorldModel addAgent - Agent #32 added.
+[INFO] pol.WorldModel addAgent - Agent #33 added.
+[INFO] pol.WorldModel addAgent - Agent #34 added.
+[INFO] pol.WorldModel addAgent - Agent #35 added.
+[INFO] pol.WorldModel addAgent - Agent #36 added.
+[INFO] pol.WorldModel addAgent - Agent #37 added.
+[INFO] pol.WorldModel addAgent - Agent #38 added.
+[INFO] pol.WorldModel addAgent - Agent #39 added.
+[INFO] pol.WorldModel addAgent - Agent #40 added.
+[INFO] pol.WorldModel addAgent - Agent #41 added.
+[INFO] pol.WorldModel addAgent - Agent #42 added.
+[INFO] pol.WorldModel addAgent - Agent #43 added.
+[INFO] pol.WorldModel addAgent - Agent #44 added.
+[INFO] pol.WorldModel addAgent - Agent #45 added.
+[INFO] pol.WorldModel addAgent - Agent #46 added.
+[INFO] pol.WorldModel addAgent - Agent #47 added.
+[INFO] pol.WorldModel addAgent - Agent #48 added.
+[INFO] pol.WorldModel addAgent - Agent #49 added.
+[INFO] pol.WorldModel addAgent - Agent #50 added.
+[INFO] pol.WorldModel addAgent - Agent #51 added.
+[INFO] pol.WorldModel addAgent - Agent #52 added.
+[INFO] pol.WorldModel addAgent - Agent #53 added.
+[INFO] pol.WorldModel addAgent - Agent #54 added.
+[INFO] pol.WorldModel addAgent - Agent #55 added.
+[INFO] pol.WorldModel addAgent - Agent #56 added.
+[INFO] pol.WorldModel addAgent - Agent #57 added.
+[INFO] pol.WorldModel addAgent - Agent #58 added.
+[INFO] pol.WorldModel addAgent - Agent #59 added.
+[INFO] pol.WorldModel addAgent - Agent #60 added.
+[INFO] pol.WorldModel addAgent - Agent #61 added.
+[INFO] pol.WorldModel addAgent - Agent #62 added.
+[INFO] pol.WorldModel addAgent - Agent #63 added.
+[INFO] pol.WorldModel addAgent - Agent #64 added.
+[INFO] pol.WorldModel addAgent - Agent #65 added.
+[INFO] pol.WorldModel addAgent - Agent #66 added.
+[INFO] pol.WorldModel addAgent - Agent #67 added.
+[INFO] pol.WorldModel addAgent - Agent #68 added.
+[INFO] pol.WorldModel addAgent - Agent #69 added.
+[INFO] pol.WorldModel addAgent - Agent #70 added.
+[INFO] pol.WorldModel addAgent - Agent #71 added.
+[INFO] pol.WorldModel addAgent - Agent #72 added.
+[INFO] pol.WorldModel addAgent - Agent #73 added.
+[INFO] pol.WorldModel addAgent - Agent #74 added.
+[INFO] pol.WorldModel addAgent - Agent #75 added.
+[INFO] pol.WorldModel addAgent - Agent #76 added.
+[INFO] pol.WorldModel addAgent - Agent #77 added.
+[INFO] pol.WorldModel addAgent - Agent #78 added.
+[INFO] pol.WorldModel addAgent - Agent #79 added.
+[INFO] pol.WorldModel addAgent - Agent #80 added.
+[INFO] pol.WorldModel addAgent - Agent #81 added.
+[INFO] pol.WorldModel addAgent - Agent #82 added.
+[INFO] pol.WorldModel addAgent - Agent #83 added.
+[INFO] pol.WorldModel addAgent - Agent #84 added.
+[INFO] pol.WorldModel addAgent - Agent #85 added.
+[INFO] pol.WorldModel addAgent - Agent #86 added.
+[INFO] pol.WorldModel addAgent - Agent #87 added.
+[INFO] pol.WorldModel addAgent - Agent #88 added.
+[INFO] pol.WorldModel addAgent - Agent #89 added.
+[INFO] pol.WorldModel addAgent - Agent #90 added.
+[INFO] pol.WorldModel addAgent - Agent #91 added.
+[INFO] pol.WorldModel addAgent - Agent #92 added.
+[INFO] pol.WorldModel addAgent - Agent #93 added.
+[INFO] pol.WorldModel addAgent - Agent #94 added.
+[INFO] pol.WorldModel addAgent - Agent #95 added.
+[INFO] pol.WorldModel addAgent - Agent #96 added.
+[INFO] pol.WorldModel addAgent - Agent #97 added.
+[INFO] pol.WorldModel addAgent - Agent #98 added.
+[INFO] pol.WorldModel addAgent - Agent #99 added.
+[INFO] pol.WorldModel addAgent - Agent #100 added.
+[INFO] pol.WorldModel addAgent - Agent #101 added.
+[INFO] pol.WorldModel addAgent - Agent #102 added.
+[INFO] pol.WorldModel addAgent - Agent #103 added.
+[INFO] pol.WorldModel addAgent - Agent #104 added.
+[INFO] pol.WorldModel addAgent - Agent #105 added.
+[INFO] pol.WorldModel addAgent - Agent #106 added.
+[INFO] pol.WorldModel addAgent - Agent #107 added.
+[INFO] pol.WorldModel addAgent - Agent #108 added.
+[INFO] pol.WorldModel addAgent - Agent #109 added.
+[INFO] pol.WorldModel addAgent - Agent #110 added.
+[INFO] pol.WorldModel addAgent - Agent #111 added.
+[INFO] pol.WorldModel addAgent - Agent #112 added.
+[INFO] pol.WorldModel addAgent - Agent #113 added.
+[INFO] pol.WorldModel addAgent - Agent #114 added.
+[INFO] pol.WorldModel addAgent - Agent #115 added.
+[INFO] pol.WorldModel addAgent - Agent #116 added.
+[INFO] pol.WorldModel addAgent - Agent #117 added.
+[INFO] pol.WorldModel addAgent - Agent #118 added.
+[INFO] pol.WorldModel addAgent - Agent #119 added.
+[INFO] pol.WorldModel addAgent - Agent #120 added.
+[INFO] pol.WorldModel addAgent - Agent #121 added.
+[INFO] pol.WorldModel addAgent - Agent #122 added.
+[INFO] pol.WorldModel addAgent - Agent #123 added.
+[INFO] pol.WorldModel addAgent - Agent #124 added.
+[INFO] pol.WorldModel addAgent - Agent #125 added.
+[INFO] pol.WorldModel addAgent - Agent #126 added.
+[INFO] pol.WorldModel addAgent - Agent #127 added.
+[INFO] pol.WorldModel addAgent - Agent #128 added.
+[INFO] pol.WorldModel addAgent - Agent #129 added.
+[INFO] pol.WorldModel addAgent - Agent #130 added.
+[INFO] pol.WorldModel addAgent - Agent #131 added.
+[INFO] pol.WorldModel addAgent - Agent #132 added.
+[INFO] pol.WorldModel addAgent - Agent #133 added.
+[INFO] pol.WorldModel addAgent - Agent #134 added.
+[INFO] pol.WorldModel addAgent - Agent #135 added.
+[INFO] pol.WorldModel addAgent - Agent #136 added.
+[INFO] pol.WorldModel addAgent - Agent #137 added.
+[INFO] pol.WorldModel addAgent - Agent #138 added.
+[INFO] pol.WorldModel addAgent - Agent #139 added.
+[INFO] pol.WorldModel addAgent - Agent #140 added.
+[INFO] pol.WorldModel addAgent - Agent #141 added.
+[INFO] pol.WorldModel addAgent - Agent #142 added.
+[INFO] pol.WorldModel addAgent - Agent #143 added.
+[INFO] pol.WorldModel addAgent - Agent #144 added.
+[INFO] pol.WorldModel addAgent - Agent #145 added.
+[INFO] pol.WorldModel addAgent - Agent #146 added.
+[INFO] pol.WorldModel addAgent - Agent #147 added.
+[INFO] pol.WorldModel addAgent - Agent #148 added.
+[INFO] pol.WorldModel addAgent - Agent #149 added.
+[INFO] pol.WorldModel addAgent - Agent #150 added.
+[INFO] pol.WorldModel addAgent - Agent #151 added.
+[INFO] pol.WorldModel addAgent - Agent #152 added.
+[INFO] pol.WorldModel addAgent - Agent #153 added.
+[INFO] pol.WorldModel addAgent - Agent #154 added.
+[INFO] pol.WorldModel addAgent - Agent #155 added.
+[INFO] pol.WorldModel addAgent - Agent #156 added.
+[INFO] pol.WorldModel addAgent - Agent #157 added.
+[INFO] pol.WorldModel addAgent - Agent #158 added.
+[INFO] pol.WorldModel addAgent - Agent #159 added.
+[INFO] pol.WorldModel addAgent - Agent #160 added.
+[INFO] pol.WorldModel addAgent - Agent #161 added.
+[INFO] pol.WorldModel addAgent - Agent #162 added.
+[INFO] pol.WorldModel addAgent - Agent #163 added.
+[INFO] pol.WorldModel addAgent - Agent #164 added.
+[INFO] pol.WorldModel addAgent - Agent #165 added.
+[INFO] pol.WorldModel addAgent - Agent #166 added.
+[INFO] pol.WorldModel addAgent - Agent #167 added.
+[INFO] pol.WorldModel addAgent - Agent #168 added.
+[INFO] pol.WorldModel addAgent - Agent #169 added.
+[INFO] pol.WorldModel addAgent - Agent #170 added.
+[INFO] pol.WorldModel addAgent - Agent #171 added.
+[INFO] pol.WorldModel addAgent - Agent #172 added.
+[INFO] pol.WorldModel addAgent - Agent #173 added.
+[INFO] pol.WorldModel addAgent - Agent #174 added.
+[INFO] pol.WorldModel addAgent - Agent #175 added.
+[INFO] pol.WorldModel addAgent - Agent #176 added.
+[INFO] pol.WorldModel addAgent - Agent #177 added.
+[INFO] pol.WorldModel addAgent - Agent #178 added.
+[INFO] pol.WorldModel addAgent - Agent #179 added.
+[INFO] pol.WorldModel addAgent - Agent #180 added.
+[INFO] pol.WorldModel addAgent - Agent #181 added.
+[INFO] pol.WorldModel addAgent - Agent #182 added.
+[INFO] pol.WorldModel addAgent - Agent #183 added.
+[INFO] pol.WorldModel addAgent - Agent #184 added.
+[INFO] pol.WorldModel addAgent - Agent #185 added.
+[INFO] pol.WorldModel addAgent - Agent #186 added.
+[INFO] pol.WorldModel addAgent - Agent #187 added.
+[INFO] pol.WorldModel addAgent - Agent #188 added.
