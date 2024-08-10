@@ -2,7 +2,7 @@
 
 This is a clone of the Patterns-of-Life simulation project. The original project is located at the master branch of [https://github.com/gmuggs/pol](https://github.com/gmuggs/pol). I develope new features and customize the simulation based on my research needs here.
 
-Dataset: [OSF](https://osf.io/dg6t3/)
+# Download Dataset: [OSF](https://osf.io/dg6t3/)
 
 # Quick Start
 
