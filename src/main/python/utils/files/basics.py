@@ -1,6 +1,6 @@
 import os
 import utils.files.check as file_check
-import utils.files.path as file_path
+import utils.files.path as path_utils
 import utils.sync as sync_utils
 
 def clean_up(folder, dir=True, trash=True):
@@ -45,7 +45,7 @@ def clone_files(src, dest, verbose=False):
     return dest
 
 def copy(src, dest, verbose=False):
-    src = file_path.get_absolute_path(src)
+    src = path_utils.get_absolute_path(src)
     if not file_check.exists(src):
         raise Exception(f'Exception: {src} does not exist')
     if verbose:
@@ -102,27 +102,31 @@ def remove(path, dir=True, trash=True,verbose=False):
         os.system('rm ' + path)
 
 def get_files(folder_path,path=True,verbose=True):
-    folder_path = file_path.get_absolute_path(folder_path)
+    folder_path = path_utils.get_absolute_path(folder_path)
     if verbose:
         print(f'Getting all files in {folder_path}')
     files = os.popen(f'find {folder_path} -type f').read().split('\n')
     files = [f for f in files if f]
     if not path:
-        files = [file_path.get_file_name(f) for f in files]
+        files = [path_utils.get_file_name(f) for f in files]
     if verbose:
         print(f'Found {len(files)} files in {folder_path}')
         print(files[:5])
     return files
 
 def get_folders(folder_path,path=True,verbose=True):
-    folder_path = file_path.get_absolute_path(folder_path)
+    folder_path = path_utils.get_absolute_path(folder_path)
     if verbose:
         print(f'Getting all directories in {folder_path}')
     folders = os.popen(f'find {folder_path} -type d').read().split('\n')
     folders = [f for f in folders if f]
     if not path:
-        folders = [file_path.get_file_name(f) for f in folders]
+        folders = [path_utils.get_file_name(f) for f in folders]
     if verbose:
         print(f'Found {len(folders)} directories in {folder_path}')
         print(folders[:5])
     return folders
+
+def get_file_size(file_path):
+    file_path = path_utils.get_absolute_path(file_path)
+    return os.path.getsize(file_path)

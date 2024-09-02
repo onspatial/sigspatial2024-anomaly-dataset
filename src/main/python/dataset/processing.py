@@ -3,8 +3,15 @@ import utils.files.check as check_utils
 import pandas
 
 def add_labels(input_df, labels_dict={}):
-    # if agent is not in dic then label is 0
-    input_df['Label'] = input_df['AgentID'].apply(lambda x: labels_dict.get(x, '0'))
+    input_df['Label'] = 0
+    if not labels_dict:
+        return input_df
+    for agent_id, label_info in labels_dict.items():
+        label = label_info['label']
+        start_time = label_info['start_time']
+        end_time = label_info['end_time']
+        input_df.loc[(input_df['AgentID'] == int(agent_id)) & (input_df['Time'] >= start_time) & (input_df['Time'] < end_time), 'Label'] = int(label)
+
     return input_df
 
 def get_split_df(input_df, start_time, end_time):
@@ -28,19 +35,34 @@ def get_statistics_dict(log_dir):
     return statistics
    
 def get_calculated_labels(disease_report_df):
-    outlier_agents_df = disease_report_df[disease_report_df['diseaseStatus'] == 'Infectious']
-    try:
-        outlier_agents_df = outlier_agents_df.drop_duplicates(subset=['agentId'])
-    except Exception as e:
-        print(f"Error in dropping duplicates: {e}")
-        
+
+    infected_agents_df = disease_report_df[disease_report_df['diseaseStatus'] == 'Infectious']
+    infected_agents_df.drop_duplicates(subset=['agentId'])
+    recovered_agents_df = disease_report_df[disease_report_df['diseaseStatus'] == 'Recovered']
+    recovered_agents_df.drop_duplicates(subset=['agentId'])
+    outlier_agents_df = infected_agents_df[['agentId', 'outlierType', 'outlierDegree', 'time']]
+    outlier_agents_df.rename(columns={'time': 'start_time'}, inplace=True)
+    outlier_agents_df = add_end_time_column(outlier_agents_df, recovered_agents_df)
     labels_dict = get_labels_dict_from_df(outlier_agents_df)
     return labels_dict
+
+def add_end_time_column(outlier_agents_df, recovered_agents_df):
+
+    outlier_agents_df['end_time'] = None
+    for index, row in outlier_agents_df.iterrows():
+        agent_id = row['agentId']
+        end_time = recovered_agents_df[recovered_agents_df['agentId'] == agent_id]['time']
+        if len(end_time) > 0:
+            outlier_agents_df.at[index, 'end_time'] = end_time.values[0]    
+    return outlier_agents_df
 
 def get_labels_dict_from_df(outlier_agents_df):
     labels_dict = {}
     for index, row in outlier_agents_df.iterrows():
-        labels_dict[row['agentId']] = get_outlier_code(row['outlierType'].lower()) + get_degree_code(row['outlierDegree'])
+        label = get_outlier_code(row['outlierType'].lower()) + get_degree_code(row['outlierDegree'])
+        start_time = row['start_time']
+        end_time = row['end_time']
+        labels_dict[row['agentId']] = get_label_dict(label, start_time, end_time)
     return labels_dict
 
 def get_DiseaseReports_df(log_dir):
@@ -121,9 +143,18 @@ def get_labels(outliers_info, outlier_type):
     else:
         for level, agent_ids in outliers_info.items():
             for agent_id in agent_ids:
-                labels_dict[agent_id] = get_code(level, outlier_type)
+                label =get_code(level, outlier_type)
+                labels_dict[agent_id] = get_label_dict(label)
+                    
     return labels_dict
 
+def get_label_dict(label, start_time="2000-01-29T00:00:00", end_time="3000-01-29T00:00:00"):
+    dict = {
+    "label": label,
+    "start_time":start_time,
+    "end_time": end_time
+    }
+    return dict
 def get_code(level, outlier_type):
     code = get_outlier_code(outlier_type)
     code += get_level_code(level)
